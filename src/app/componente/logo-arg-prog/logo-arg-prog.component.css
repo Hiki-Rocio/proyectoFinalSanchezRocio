@@ -1,3 +1,18 @@
+.container{
+   display:flex;
+   justify-content: space-between;
+   align-items: center;
+}
+.redesS{
+   margin-right: 0.6em;
+}
 #argProg{
    width: 150px;
 }
+img{
+   width: 40px;
+}
+.btn{
+   box-shadow: 2px 2px 5px;
+}
+
